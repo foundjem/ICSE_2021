@@ -36,7 +36,6 @@ binary==1.0.0
 black==20.8b1
 bleach==3.2.1
 blis==0.4.1
-boartty @ file:///Users/foundjem/boartty
 bokeh==2.2.1
 boto==2.49.0
 boto3==1.15.11
@@ -79,7 +78,6 @@ cymem==2.0.3
 Cython==0.29.21
 dataclasses==0.6
 dbfread==2.0.7
-debtcollector==2.2.0
 decorator==4.4.2
 defusedxml==0.6.0
 Delorean==1.0.0
@@ -136,7 +134,6 @@ gast==0.3.3
 gensim==3.8.3
 geographiclib==1.50
 geopy==2.0.0
-gertty @ file:///Users/foundjem/gertty
 git-nit==1.0.0
 git-restack==1.0.0
 gitdb==4.0.5
@@ -291,7 +288,6 @@ path==15.0.0
 path.py==12.5.0
 pathspec==0.8.1
 patsy==0.5.1
-pbr==0.11.1
 pdfminer==20191125
 pdfminer.six==20200726
 pexpect==4.8.0
@@ -635,7 +631,6 @@ urwid==2.1.2
 vcrpy==2.0.1
 vcrpy-unittest==0.1.7
 vega-datasets==0.9.0
-vim==0.0.1
 virtualenv==20.2.1
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
